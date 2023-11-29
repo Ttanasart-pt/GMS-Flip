@@ -1,0 +1,8 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"fluid_native","order":1,"path":"objects/fluid_native/fluid_native.yy",},
+    {"name":"fluid_dll","order":2,"path":"objects/fluid_dll/fluid_dll.yy",},
+    {"name":"FLIP","order":3,"path":"extensions/FLIP/FLIP.yy",},
+  ],
+}
